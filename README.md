@@ -7,7 +7,7 @@
 
 <ul>
   <li> She is a hard worker. Lyndsey pushes everyone to do her best while doing her best with coaching.</li>
-  <li> Lyndsey doesnt depend on anyone else but herself. She knows that if she wants to get something done she does it herself.<li>
+  <li> Lyndsey doesnt depend on anyone else but herself. She knows that if she wants to get something done she does it herself.</li>
   <li> She is so committed to her job and making sure that everyone is doing their job and at their best abilty.</li>
  </ul>
  
