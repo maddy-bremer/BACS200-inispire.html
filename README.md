@@ -13,4 +13,4 @@
  
  <p>With her 15 years of coaching at Northern Coloard, she has brought the 4 teams to the first round of the NCAA and has gotten 3 coaches of the year. She has coached all big sky team players and has shown her players how to be a women and surive in the world after college.</p>
  
- <a href=https://uncbears.com/sports/womens-volleyball/roster/coaches/lyndsey-oates/538/">Learn More</a>
+ <a href="https://uncbears.com/sports/womens-volleyball/roster/coaches/lyndsey-oates/538/">Learn More</a>
